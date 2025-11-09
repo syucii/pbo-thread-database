@@ -8,7 +8,7 @@ public class Order {
         this.menuItem = menuItem;
         this.quantity = quantity;
     }
-
+    // Getter methods
     public String getWaiterName() { return waiterName; }
     public String getMenuItem() { return menuItem; }
     public int getQuantity() { return quantity; }
